@@ -15,6 +15,12 @@ public class Test {
         System.out.println("are you ready for the second mock interview ");
         System.out.println("do your change here");
         System.out.println("str");
+
+
+        for (int i = 0; i < 5; i++) {
+
+        }
+
     }
 
 }
