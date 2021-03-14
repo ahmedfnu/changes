@@ -14,7 +14,7 @@ public class Test {
 
         System.out.println("are you ready for the second mock interview ");
         System.out.println("do your change here");
-        System.out.println();
+        System.out.println("str");
     }
 
 }
