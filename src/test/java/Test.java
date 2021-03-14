@@ -4,8 +4,12 @@ public class Test {
         System.out.println("Techtorial");
         System.out.println("Ahmed");
         System.out.println("Muammer");
-         System.out.println("mamo");
-        
-        
+        System.out.println("mamo");
+
+
+        System.out.println("Ahmet hello!!!");
+
+
         System.out.println("mehmet");
+    }
 }
