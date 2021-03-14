@@ -6,4 +6,9 @@ public class Test {
         System.out.println("are you ready for the second mock interview ");
         System.out.println("do your change here");
     }
+        System.out.println("Muammer");
+         System.out.println("mamo");
+
+
+        System.out.println("mehmet");
 }
