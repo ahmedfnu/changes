@@ -11,5 +11,6 @@ public class Test {
 
 
         System.out.println("mehmet");
+        System.out.println("gulya");
     }
 }
