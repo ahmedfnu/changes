@@ -27,8 +27,7 @@ public class Test {
 
             if (i<3);
 
-
-
         }
+        System.out.println("100");
     }
 }
