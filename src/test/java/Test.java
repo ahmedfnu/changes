@@ -8,6 +8,7 @@ public class Test {
         System.out.println("Chicago");
 
 
+        System.out.println("new class");
 
         System.out.println("mehmet");
 

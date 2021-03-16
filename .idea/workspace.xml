@@ -22,7 +22,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d31e3664-9224-4bdd-82c6-a9e391bcd6cf" name="Default Changelist" comment="Added hello" />
+    <list default="true" id="d31e3664-9224-4bdd-82c6-a9e391bcd6cf" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Test.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,12 +45,16 @@
     </option>
   </component>
   <component name="ProjectId" id="1pl8mL9sKdAEA8iw7Vo5KHMdUCM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -86,7 +93,21 @@
       <option name="project" value="LOCAL" />
       <updated>1615749996824</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added hello 11">
+      <created>1615750690530</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1615750690530</updated>
+    </task>
+    <task id="LOCAL-00006" summary="first commit">
+      <created>1615936608993</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1615936608993</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -99,21 +120,59 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added hello" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added hello" />
+    <MESSAGE value="Added hello 11" />
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="320" y="160" key="Vcs.Push.Dialog.v2" timestamp="1615750003890">
-      <screen x="0" y="25" width="1440" height="799" />
+    <state x="175" y="25" key="#Project_Structure" timestamp="1615935172867">
+      <screen x="0" y="25" width="1440" height="815" />
+    </state>
+    <state x="175" y="25" key="#Project_Structure/0.25.1440.815@0.25.1440.815" timestamp="1615935172867" />
+    <state x="272" y="25" key="CommitChangelistDialog2" timestamp="1615936608756">
+      <screen x="0" y="25" width="1440" height="815" />
+    </state>
+    <state x="272" y="25" key="CommitChangelistDialog2/0.25.1440.815@0.25.1440.815" timestamp="1615936608756" />
+    <state x="272" y="25" key="CommitChangelistDialog2/0.25.1440.818@0.25.1440.818" timestamp="1615750690378" />
+    <state width="1309" height="186" key="GridCell.Tab.0.bottom" timestamp="1615753993349">
+      <screen x="0" y="25" width="1440" height="815" />
+    </state>
+    <state width="1309" height="186" key="GridCell.Tab.0.bottom/0.25.1440.815@0.25.1440.815" timestamp="1615753993349" />
+    <state width="1309" height="186" key="GridCell.Tab.0.center" timestamp="1615753993348">
+      <screen x="0" y="25" width="1440" height="815" />
+    </state>
+    <state width="1309" height="186" key="GridCell.Tab.0.center/0.25.1440.815@0.25.1440.815" timestamp="1615753993348" />
+    <state width="1309" height="186" key="GridCell.Tab.0.left" timestamp="1615753993348">
+      <screen x="0" y="25" width="1440" height="815" />
+    </state>
+    <state width="1309" height="186" key="GridCell.Tab.0.left/0.25.1440.815@0.25.1440.815" timestamp="1615753993348" />
+    <state width="1309" height="186" key="GridCell.Tab.0.right" timestamp="1615753993349">
+      <screen x="0" y="25" width="1440" height="815" />
+    </state>
+    <state width="1309" height="186" key="GridCell.Tab.0.right/0.25.1440.815@0.25.1440.815" timestamp="1615753993349" />
+    <state x="320" y="162" key="Vcs.Push.Dialog.v2" timestamp="1615936915180">
+      <screen x="0" y="25" width="1440" height="815" />
     </state>
     <state x="320" y="159" key="Vcs.Push.Dialog.v2/0.25.1440.794@0.25.1440.794" timestamp="1615746808286" />
     <state x="320" y="160" key="Vcs.Push.Dialog.v2/0.25.1440.799@0.25.1440.799" timestamp="1615750003890" />
     <state x="320" y="161" key="Vcs.Push.Dialog.v2/0.25.1440.804@0.25.1440.804" timestamp="1615747220816" />
+    <state x="320" y="162" key="Vcs.Push.Dialog.v2/0.25.1440.815@0.25.1440.815" timestamp="1615936915180" />
+    <state x="320" y="163" key="Vcs.Push.Dialog.v2/0.25.1440.818@0.25.1440.818" timestamp="1615750693698" />
     <state x="355" y="36" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1615746994854">
       <screen x="0" y="25" width="1440" height="794" />
     </state>
     <state x="355" y="36" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.25.1440.794@0.25.1440.794" timestamp="1615746994854" />
+    <state x="489" y="317" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1615937352765">
+      <screen x="0" y="25" width="1440" height="817" />
+    </state>
+    <state x="489" y="317" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.25.1440.817@0.25.1440.817" timestamp="1615937352765" />
+    <state x="491" y="292" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1615936901001">
+      <screen x="0" y="25" width="1440" height="815" />
+    </state>
+    <state x="491" y="292" key="git4idea.remote.GitConfigureRemotesDialog/0.25.1440.815@0.25.1440.815" timestamp="1615936901001" />
   </component>
 </project>
