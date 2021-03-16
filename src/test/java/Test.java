@@ -11,6 +11,11 @@ public class Test {
         System.out.println("new class");
 
         System.out.println("mehmet");
+        
+            
+        System.out.println("sofr assert");
+        
+        
 
 
         System.out.println("are you ready for the second mock interview ");
